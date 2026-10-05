@@ -25,12 +25,4 @@ while True:
     elif operator!="+" or operator!="-" or operator!="*" or operator!="/":
         print(f"The {operator} is invalid")
 
-    
-
-
-    
-
-             
-
-
 

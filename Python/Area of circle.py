@@ -9,10 +9,3 @@ area=(pi*radius)
 round_area= round(area, 2)
 
 print(f"The area of the circle is: {round_area}")
-
-
-
-
-
-
-                                                    
